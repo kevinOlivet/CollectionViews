@@ -1,4 +1,4 @@
-CollectionViewImgurSearch
+#CollectionViewImgurSearch
 
 This project implements a dynamic collection view that displays search results from Imgur.
 The collection view uses RESTful APIs to hit the Imgur api endpoint for it's galleries.
